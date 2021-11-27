@@ -1,4 +1,14 @@
-# FedRecAttack: <br/>Model Poisoning Attack to Federated Recommendation
+# FedRecAttack
+
+Model Poisoning Attack to Federated Recommendation.
+
+This is the pytorch implementation of our paper.
+
+## Environment
++ Python 3.7.9
++ numpy==1.18.5
++ torch==1.7.0+cu101
+
 
 ## Usage
 
@@ -29,6 +39,9 @@ Iteration 5, loss = 72.80792 [2.0s], (0.2174) on test, (0.7814, 0.7824, 0.7809) 
 ... ...
 ```
 
+## License
+
+The codes are currently only for presentation to the reviewers, please do not use the codes for other purposes.
 
 ## Fix
 
